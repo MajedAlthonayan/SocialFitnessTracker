@@ -1,0 +1,21 @@
+
+
+.nav-wrapper {
+  background-color: #2F4F4F;
+  width: 100%;
+  height: 70px;
+  text-align: center;
+}
+
+.brand-logo{
+  text-align: center;
+}
+
+.footer{
+  background-color: #2F4F4F;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  height: 70px;   /* Height of the footer */
+
+}
